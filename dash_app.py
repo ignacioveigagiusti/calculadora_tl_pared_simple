@@ -117,10 +117,10 @@ def update_graph(material,alto,largo,espesor,metodos, xaxis_type):
                                   name=names[x]))
     #fig.add_vline(x=fcrit, line_width=1, line_dash='dash', line_color='black')
     #fig.add_vline(x=fdens, line_width=1, line_dash='dash', line_color='pink')
-    fig.add_trace(go.Scatter(x=[fcrit,fcrit], y=[0,65],
+    fig.add_trace(go.Scatter(x=[fcrit,fcrit], y=[0,120],
                                 mode='lines',line=dict(color='black', width=1, dash='dash'),
                                 name='frecuencia critica'))
-    fig.add_trace(go.Scatter(x=[fdens,fdens], y=[0,65],
+    fig.add_trace(go.Scatter(x=[fdens,fdens], y=[0,120],
                                 mode='lines',line=dict(color='blue', width=1, dash='dash'),
                                 name='frecuencia densidad'))                                  
     fig.show()
