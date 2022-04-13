@@ -1,6 +1,6 @@
 # Calculadora de Transmission Loss a través de una pared simple o monolítica
 
-Desarrollada por Ignacio Veiga, Nicolás Cavasso y Pedro Venezia con aportes de Tomás Cufaro, Martín Nocito y Guido Santoro, en el contexto de la materia Acústica y Psicoacústica II, Universidad Nacional de Tres de Febrero, Argentina en  del año 2021.
+Desarrollada por Ignacio Veiga, Nicolás Cavasso y Pedro Venezia con aportes de Tomás Cufaro, Martín Nocito y Guido Santoro, en el contexto de la materia Acústica y Psicoacústica II, Universidad Nacional de Tres de Febrero, Argentina, Noviembre 2021.
 
 Aplicación accesible a través de https://calculadora-tl.herokuapp.com/
 
